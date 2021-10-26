@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Questrial';
+	src: url('../ProjectFonts/fonts/Questrial-Regular.eot');
+	src: local('☺'), url('../ProjectFonts/fonts/Questrial-Regular.woff') format('woff'), url('../ProjectFonts/fonts/Questrial-Regular.ttf') format('truetype'), url('../ProjectFonts/fonts/Questrial-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
